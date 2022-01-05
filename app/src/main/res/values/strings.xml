@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CestVraimentNimporteQuoi</string>
+    <string name="resource_activity_button">On porte un toast</string>
+    <string name="string_toast">Mon toast !</string>
+</resources>
